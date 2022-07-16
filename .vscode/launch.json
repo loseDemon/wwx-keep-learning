@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "C/C++ Runner: Debug Session",
+            "type": "cppdbg",
+            "request": "launch",
+            "args": [
+                ""
+            ],
+            "stopAtEntry": true,
+            "cwd": "/Users/mark/mark_keeps_learning",
+            "environment": [],
+            "program": "/Users/mark/mark_keeps_learning/build/Debug/outDebug",
+            "internalConsoleOptions": "openOnSessionStart",
+            "MIMode": "gdb",
+            "externalConsole": true
+        }
+    ]
+}

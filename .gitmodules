@@ -1,0 +1,10 @@
+[submodule "whats-the-best-to-learn"]
+	path="whats-the-best-to-learn"
+	url="https://github.com/whats-the-best/whats-the-best-to-learn"
+
+[submodule "chrome-extension_link-to-text-fragment_nc"]
+	path = mark_learns_softwares/Google/ChromeExtensions/chrome-extension_link-to-text-fragment_nc
+	url = https://github.com/mark-applications/chrome-extension_link-to-text-fragment_nc
+
+[submodule "https://github.com/my-chrome-extensions/chrome-extension_link-to-text-fragment_nc"]
+	url = softwares/Google/ChromeExtensions/chrome-extension_link-to-text-fragment_nc
